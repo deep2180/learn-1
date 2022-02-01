@@ -23,8 +23,11 @@ elif foo == 10:
 else:
     print("n")
 
+<<<<<<< HEAD
 print(type(foo))
 
+=======
+>>>>>>> 536d7671d424e4a069a531159b421da6b7fc88a2
 ##print("111 tell me about it")
 ##print("Strcat with  " + str(10*12) + ' single quote')
 #print(f"this is the geek way {12} of doing {111} things")
