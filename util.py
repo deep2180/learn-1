@@ -9,6 +9,6 @@ def mult(a,b):
 
 def div(a,b):
     if b == 0:
-        print (f"{b} cant be zero(0)")
+        print (f"hey, {b} cant be there")
         return 0
     return a/b
